@@ -1,0 +1,4 @@
+SmartSaleAndroid
+================
+
+SmartSale, mobile version
